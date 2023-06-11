@@ -1,6 +1,6 @@
-# labalaba
+# rethinkdb dart
 
-A new Flutter project.
+realtime chat
 
 ## Getting Started
 
